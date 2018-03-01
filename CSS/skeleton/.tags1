@@ -5,5 +5,5 @@
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
 body	/Users/appacademy/Desktop/W3D3/CSS/skeleton/assets/css_reset.css	/^body {$/;"	function	line:1
-img	/Users/appacademy/Desktop/W3D3/CSS/skeleton/assets/css_reset.css	/^img {$/;"	function	line:10
-ul ol	/Users/appacademy/Desktop/W3D3/CSS/skeleton/assets/css_reset.css	/^ul ol {$/;"	function	line:14
+img	/Users/appacademy/Desktop/W3D3/CSS/skeleton/assets/css_reset.css	/^img {$/;"	function	line:9
+ul, ol	/Users/appacademy/Desktop/W3D3/CSS/skeleton/assets/css_reset.css	/^ul, ol {$/;"	function	line:13
